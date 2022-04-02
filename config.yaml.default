@@ -70,6 +70,7 @@ notifications:
   # TELEGRAM
   notify_telegram: false
   telegram_token: xxxxx
+  chat_id: xxxxx
 
   # TWILIO
   notify_twilio: false
